@@ -1,5 +1,5 @@
 /*!
- * mylib 0.1.0 (https://github.com/wangdonghai/mylib)
+ * mylib 0.2.0 (https://github.com/wangdonghai/mylib)
  * API https://github.com/wangdonghai/mylib/blob/master/doc/api.md
  * Copyright 2017-2019 wangdonghai. All Rights Reserved
  * Licensed under MIT (https://github.com/wangdonghai/mylib/blob/master/LICENSE)
